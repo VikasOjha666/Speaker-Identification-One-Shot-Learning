@@ -5,3 +5,5 @@ different speakers.
 
 The model has been trained on Librispeech dataset and it first converts the audio to spectrogram images and then it compares 
 them using convolutional neural network.
+This notebook has been created in Google Colab and hence contains linux commands and cannot be executed in anaconda ipython
+notebook normally.
